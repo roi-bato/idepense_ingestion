@@ -1,0 +1,97 @@
+[ {
+  "baseItem" : {
+    "id" : "_AX2TQMsEEfCgfbIQmXVNEQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_EA-A8MsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__QW8MMsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_CrMFgMsdEfCR4dzqRNJ6sA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_EA-A8MsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__QW8MMsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_MWYUQMskEfCR4dzqRNJ6sA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_EA-A8MsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__QW8MMsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wqz7MMsaEfCR4dzqRNJ6sA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_EA-A8MsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__QW8MMsCEfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ - CATEGORIE_DEPENSE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+{
+  "itemId" : "_AX2TQMsEEfCgfbIQmXVNEQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_EA-A8MsCEfCgfbIQmXVNEQ",
+    "parameterList" : [ {
+      "id" : "_L2UXIcsDEfCgfbIQmXVNEQ",
+      "name" : "fichier_source"
+    }, {
+      "id" : "_L2UXIMsDEfCgfbIQmXVNEQ",
+      "name" : "repertoire_local"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "__QW8MMsCEfCgfbIQmXVNEQ",
+    "parameterList" : [ {
+      "id" : "_EBe-UcsCEfCgfbIQmXVNEQ",
+      "name" : "account"
+    }, {
+      "id" : "_zdLCA8sCEfCgfbIQmXVNEQ",
+      "name" : "database"
+    }, {
+      "id" : "_zdLCAcsCEfCgfbIQmXVNEQ",
+      "name" : "password"
+    }, {
+      "id" : "_zdLCBcsCEfCgfbIQmXVNEQ",
+      "name" : "schema_dwh"
+    }, {
+      "id" : "_zdLCBMsCEfCgfbIQmXVNEQ",
+      "name" : "schema_ods"
+    }, {
+      "id" : "_0Dx1YMsKEfCgfbIQmXVNEQ",
+      "name" : "table_3"
+    }, {
+      "id" : "_zdLCAMsCEfCgfbIQmXVNEQ",
+      "name" : "userid"
+    }, {
+      "id" : "_zdLCAssCEfCgfbIQmXVNEQ",
+      "name" : "warehouse"
+    } ]
+  } ]
+}

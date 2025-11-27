@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_EBe-UMsCEfCgfbIQmXVNEQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_EBe-UcsCEfCgfbIQmXVNEQ" comment="" name="account" prompt="account?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="wqupcgt-ma11873"/>
+  <contextParameter xmi:id="_zdLCAMsCEfCgfbIQmXVNEQ" comment="" name="userid" prompt="userid?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="AA"/>
+  <contextParameter xmi:id="_zdLCAcsCEfCgfbIQmXVNEQ" comment="" name="password" prompt="password?" promptNeeded="true" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:fCr1JoCwgBf8+KnC4TXMOyQJKxu47uG2E64vM+zZ/FvuWR4uoXiVpHPJ8Q=="/>
+  <contextParameter xmi:id="_zdLCAssCEfCgfbIQmXVNEQ" comment="" name="warehouse" prompt="warehouse?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="COMPUTE_WH"/>
+  <contextParameter xmi:id="_zdLCA8sCEfCgfbIQmXVNEQ" comment="" name="database" prompt="database?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="IDEPENSE"/>
+  <contextParameter xmi:id="_zdLCBMsCEfCgfbIQmXVNEQ" comment="" name="schema_ods" prompt="schema_ods?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="ODS"/>
+  <contextParameter xmi:id="_zdLCBcsCEfCgfbIQmXVNEQ" comment="" name="schema_dwh" prompt="schema_dwh?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="DWH"/>
+  <contextParameter xmi:id="_0Dx1YMsKEfCgfbIQmXVNEQ" comment="" name="table_3" prompt="table_3?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="CATEGORIE_DEPENSE"/>
+</talendfile:ContextType>
