@@ -20,6 +20,10 @@
     "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ - CATEGORIE_DEPENSE",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
@@ -90,7 +94,7 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ - CATEGORIE_DEPENSE",
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ - SOUS_CATEGORIE_DEPENSE",
     "version" : "Latest",
     "type" : "schema"
   } ]
