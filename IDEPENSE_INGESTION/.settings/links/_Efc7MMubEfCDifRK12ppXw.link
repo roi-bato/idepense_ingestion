@@ -62,9 +62,6 @@
     "contextName" : "Default",
     "repoId" : "_seJNwMb5EfC1iKoDJRBjnA",
     "parameterList" : [ {
-      "id" : "_sedW18b5EfC1iKoDJRBjnA",
-      "name" : "cnx_idepnese_DWH_account"
-    }, {
       "id" : "_sedW1cb5EfC1iKoDJRBjnA",
       "name" : "cnx_idepnese_DWH_db"
     }, {

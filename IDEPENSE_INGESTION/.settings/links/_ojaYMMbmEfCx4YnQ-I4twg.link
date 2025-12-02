@@ -74,9 +74,6 @@
       "id" : "_sedW3sb5EfC1iKoDJRBjnA",
       "name" : "cnx_idepnese_DWH_keyAlias"
     }, {
-      "id" : "_sedW18b5EfC1iKoDJRBjnA",
-      "name" : "cnx_idepnese_DWH_account"
-    }, {
       "id" : "_sedW38b5EfC1iKoDJRBjnA",
       "name" : "cnx_idepnese_DWH_jdbcParameters"
     }, {
