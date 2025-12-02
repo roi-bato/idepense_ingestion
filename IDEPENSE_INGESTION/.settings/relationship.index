@@ -93,10 +93,6 @@
     "id" : "IDEPENSE_INGESTION:_wqz7MMsaEfCR4dzqRNJ6sA",
     "version" : "Latest",
     "type" : "job"
-  }, {
-    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
-    "version" : "Latest",
-    "type" : "property"
   } ]
 }, {
   "baseItem" : {
@@ -121,25 +117,17 @@
     "version" : "Latest",
     "type" : "job"
   }, {
-    "id" : "IDEPENSE_INGESTION:_iC9_wMfzEfCAdfchb8P0XQ",
+    "id" : "IDEPENSE_INGESTION:_fk5rwM9PEfCC2v3sNFQCIw",
     "version" : "Latest",
     "type" : "job"
   }, {
-    "id" : "IDEPENSE_INGESTION:_mSttYMeVEfCU1eTs5EVXww",
+    "id" : "IDEPENSE_INGESTION:_iC9_wMfzEfCAdfchb8P0XQ",
     "version" : "Latest",
     "type" : "job"
   }, {
     "id" : "IDEPENSE_INGESTION:_ojaYMMbmEfCx4YnQ-I4twg",
     "version" : "Latest",
     "type" : "job"
-  }, {
-    "id" : "_I7AFYMb5EfC1iKoDJRBjnA",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "__ajX8JiXEfCQpJ1kuasv6w",
-    "version" : "Latest",
-    "type" : "property"
   } ]
 }, {
   "baseItem" : {
@@ -170,12 +158,32 @@
   } ]
 }, {
   "baseItem" : {
-    "id" : "_WHkyEM1UEfC7CbUrZWJmoA",
+    "id" : "_Rj4R8M9YEfCC2v3sNFQCIw",
     "version" : "0.1",
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_seJNwMb5EfC1iKoDJRBjnA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_y2TpsMb5EfC1iKoDJRBjnA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_I7AFYMb5EfC1iKoDJRBjnA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_NQIv0MxuEfC1pKfEYy8ong",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__ajX8JiXEfCQpJ1kuasv6w",
     "version" : "Latest",
     "type" : "property"
   }, {
@@ -184,6 +192,22 @@
     "type" : "property"
   }, {
     "id" : "_NQIv0MxuEfC1pKfEYy8ong - DIM_DESCRIPTION",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_NQIv0MxuEfC1pKfEYy8ong - DIM_SOUSCATEGORIE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_NQIv0MxuEfC1pKfEYy8ong - DIM_TEMPS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_NQIv0MxuEfC1pKfEYy8ong - FACT_DEPENSE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ - DEPENSE",
     "version" : "Latest",
     "type" : "schema"
   } ]
@@ -206,19 +230,30 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "_I7AFYMb5EfC1iKoDJRBjnA",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_NQIv0MxuEfC1pKfEYy8ong",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "__ajX8JiXEfCQpJ1kuasv6w",
+    "id" : "_NQIv0MxuEfC1pKfEYy8ong - DIM_TEMPS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fk5rwM9PEfCC2v3sNFQCIw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_NQIv0MxuEfC1pKfEYy8ong",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_NQIv0MxuEfC1pKfEYy8ong - DIM_TEMPS",
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_NQIv0MxuEfC1pKfEYy8ong - DIM_DESCRIPTION",
     "version" : "Latest",
     "type" : "schema"
   } ]
@@ -241,15 +276,7 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "_I7AFYMb5EfC1iKoDJRBjnA",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_NQIv0MxuEfC1pKfEYy8ong",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "__ajX8JiXEfCQpJ1kuasv6w",
     "version" : "Latest",
     "type" : "property"
   }, {
@@ -307,19 +334,19 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "_I7AFYMb5EfC1iKoDJRBjnA",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_NQIv0MxuEfC1pKfEYy8ong",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "__ajX8JiXEfCQpJ1kuasv6w",
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ",
     "version" : "Latest",
     "type" : "property"
   }, {
     "id" : "_NQIv0MxuEfC1pKfEYy8ong - DIM_SOUSCATEGORIE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jg4r0Mr_EfCgfbIQmXVNEQ - SOUS_CATEGORIE_DEPENSE",
     "version" : "Latest",
     "type" : "schema"
   } ]
